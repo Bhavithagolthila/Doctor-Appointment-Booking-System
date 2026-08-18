@@ -89,3 +89,12 @@ npm run dev
 
 Configure the required MongoDB, JWT, and API URL environment variables using
 the provided `.env.example` files.
+
+## 🔗 Live Demo
+
+- **Patient App:** https://doctor-appointment-booking-system-j-mauve.vercel.app/
+- **Backend API:** https://doctor-appointment-booking-system-orno.onrender.com/
+
+> ⚠️ The backend is hosted on Render's free tier, which sleeps after 15 minutes
+> of inactivity. The first request after idle time may take 30–50 seconds to
+> respond while it wakes up — this is expected, not a bug.
