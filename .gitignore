@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# !! NEVER commit real .env files — use .env.example as template
+.env
+.env.local
+.env.production
+.env.development
+
+# Uploads folder
+backend/uploads/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
